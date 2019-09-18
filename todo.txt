@@ -1,0 +1,15 @@
+-Feitos
+
+*Atribuição
+*Operações aritméticas
+*Tabela de símbolos
+
+-A fazer
+
+*Tipagem
+*Conversão de tipos
+	*Implícita
+	*Explícita
+*Operações lógicas
+*Operações relacionais
+*Declaração de tipo no código intermediário

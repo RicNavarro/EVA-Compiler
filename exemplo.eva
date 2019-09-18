@@ -1,0 +1,4 @@
+int main()
+{
+	var c float = 2.0 / 2;
+}
