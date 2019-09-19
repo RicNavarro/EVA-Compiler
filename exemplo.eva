@@ -1,4 +1,4 @@
 int main()
 {
-	var c float = 2.0 / 2;
+	var c char;
 }

@@ -30,6 +30,10 @@ BOOL {"TRUE"|"FALSE"}
 
 "var"       {return TK_DEC_VAR;}
 
+"(f)"		{return TK_CONV_FLOAT;}
+
+"(i)"		{return TK_CONV_INT;}
+
 "bool"		{ yylval.label = "bool"; yylval.traducao = yytext; return TK_TIPO_BOOL;}
 
 [(){}[\];,=]	{ return *yytext; }
