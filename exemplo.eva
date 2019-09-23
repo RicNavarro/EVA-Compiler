@@ -1,4 +1,6 @@
 int main()
 {
-	var c char;
+	var c char = 'c';
+	var i int = 1;
+	var a int = 9.0 + 2;
 }
